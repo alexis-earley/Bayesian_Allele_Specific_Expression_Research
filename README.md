@@ -5,7 +5,3 @@ This project was centered around allele specific expression, which is when the a
 A couple of examples of files that I helped with are:
 - Check prealign design - This Python file ensures that the biological files contain the proper headers, names, and are otherwise in the correct format for analysis.
 - Merge priors - This XML file is one step in the pipeline that takes the result of previous statistical tests and merges them with other filtered data.
-
-Below is the README from the original source:
-
-src/README.md
