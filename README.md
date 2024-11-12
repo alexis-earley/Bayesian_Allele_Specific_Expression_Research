@@ -4,4 +4,4 @@ This project was centered around allele specific expression, which is when the a
 
 A couple of examples of files that I helped with are:
 - Check Align Design File (check_aln_design_file.py) - This Python file ensures that the biological files contain the proper headers, names, and are otherwise in the correct format for analysis.
-- Merge priors - This XML file is one step in the pipeline that takes the result of previous statistical tests and merges them with other filtered data.
+- Merge Priors (merge_priors_to_comparate.xml) - This XML file is one step in the pipeline that takes the result of previous statistical tests and merges them with other filtered data.
